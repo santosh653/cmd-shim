@@ -12,6 +12,7 @@
 arch:
   - amd64
   - ppc64le
+  
 language: node_js
 
 node_js:
@@ -20,7 +21,7 @@ node_js:
   - 10
 os:
   - linux
-  - windows
+  
 
 cache:
   directories:
